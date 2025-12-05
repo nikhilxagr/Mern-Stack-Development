@@ -5,7 +5,7 @@ import "./App.css";
 
 function App() {
   const [count, setCount] = useState(0);
-  const [showbtn, setshowbtn] = useState(false);
+  const [showBtn, setShowBtn] = useState(false);
   const [todos, setTodos] = useState([
     {
       title: "Hey Coders",
@@ -32,12 +32,12 @@ function App() {
         </a>
       </div>
       <h1>Vite + React</h1>
-      {showbtn ? (
+      {showBtn ? (
         <button>showbtn is true</button>
       ) : (
         <button>showbtn is false</button>
       )}
-      {/* {showbtn && <button>showbtn is true</button>} */}
+      {/* {showBtn && <button>showbtn is true</button>} */}
 
       {todos.map((todo) => {
         // return <Todo key={todo.title} todo={todo}/>
@@ -52,7 +52,7 @@ function App() {
         );
       })}
       <div className="card">
-        <button onClick={() => setshowbtn(!showbtn)}>Toggle showbtn</button>
+        <button onClick={() => setShowBtn(!showBtn)}>Toggle showbtn</button>
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
