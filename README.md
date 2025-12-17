@@ -1,12 +1,20 @@
-# 🚀 MERN Stack Development - Complete Learning Journey
+<div align="center">
 
-> A comprehensive, hands-on repository covering the complete web development stack from HTML basics to full-stack MERN applications. Perfect for beginners and intermediate developers looking to master modern web development!
+# <span style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px 40px; border-radius: 12px; color: #ffffff; display: inline-block; box-shadow: 0 8px 32px rgba(102, 126, 234, 0.4);">🚀 MERN Stack Development</span>
+
+## Complete Learning Journey
+
+<p style="color: #efe812ff; font-size: 1.2em; margin-top: 20px; font-weight: 300; line-height: 1.6;">
+A comprehensive, hands-on repository covering the complete web development stack from HTML basics to full-stack MERN applications. Perfect for beginners and intermediate developers looking to master modern web development!
+</p>
 
 [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com/)
+
+</div>
 
 ---
 
